@@ -1,0 +1,350 @@
+{
+  "Hyderabad": {
+    "center": [
+      17.385,
+      78.4867
+    ],
+    "poi": [
+      {
+        "name": "Charminar",
+        "lat": 17.3616,
+        "lon": 78.4747,
+        "theme": "heritage",
+        "cost": 200,
+        "duration_min": 90,
+        "rating": 4.5,
+        "reviews": 5000
+      },
+      {
+        "name": "Golconda Fort",
+        "lat": 17.3833,
+        "lon": 78.4011,
+        "theme": "heritage",
+        "cost": 200,
+        "duration_min": 150,
+        "rating": 4.6,
+        "reviews": 12000
+      },
+      {
+        "name": "Ramoji Film City",
+        "lat": 17.2543,
+        "lon": 78.6808,
+        "theme": "family",
+        "cost": 1600,
+        "duration_min": 300,
+        "rating": 4.4,
+        "reviews": 52000
+      },
+      {
+        "name": "Jubilee Hills Nightlife",
+        "lat": 17.4321,
+        "lon": 78.4077,
+        "theme": "nightlife",
+        "cost": 1200,
+        "duration_min": 180,
+        "rating": 4.2,
+        "reviews": 1800
+      },
+      {
+        "name": "Hussain Sagar Lake",
+        "lat": 17.4239,
+        "lon": 78.4738,
+        "theme": "leisure",
+        "cost": 0,
+        "duration_min": 60,
+        "rating": 4.3,
+        "reviews": 8000
+      }
+    ]
+  },
+  "Goa": {
+    "center": [
+      15.2993,
+      74.124
+    ],
+    "poi": [
+      {
+        "name": "Baga Beach",
+        "lat": 15.5529,
+        "lon": 73.7517,
+        "theme": "leisure",
+        "cost": 0,
+        "duration_min": 180,
+        "rating": 4.4,
+        "reviews": 21000
+      },
+      {
+        "name": "Fort Aguada",
+        "lat": 15.492,
+        "lon": 73.7733,
+        "theme": "heritage",
+        "cost": 100,
+        "duration_min": 90,
+        "rating": 4.5,
+        "reviews": 27000
+      },
+      {
+        "name": "Anjuna Flea Market",
+        "lat": 15.575,
+        "lon": 73.7432,
+        "theme": "shopping",
+        "cost": 0,
+        "duration_min": 120,
+        "rating": 4.2,
+        "reviews": 9000
+      },
+      {
+        "name": "Club Cabana",
+        "lat": 15.5897,
+        "lon": 73.7438,
+        "theme": "nightlife",
+        "cost": 1500,
+        "duration_min": 180,
+        "rating": 4.3,
+        "reviews": 5000
+      },
+      {
+        "name": "Dudhsagar Waterfalls (Day Trip)",
+        "lat": 15.3146,
+        "lon": 74.3147,
+        "theme": "adventure",
+        "cost": 800,
+        "duration_min": 360,
+        "rating": 4.6,
+        "reviews": 32000
+      }
+    ]
+  },
+  "Mumbai": {
+    "center": [
+      19.076,
+      72.8777
+    ],
+    "poi": [
+      {
+        "name": "Gateway of India",
+        "lat": 18.922,
+        "lon": 72.8347,
+        "theme": "heritage",
+        "cost": 0,
+        "duration_min": 60,
+        "rating": 4.5,
+        "reviews": 150000
+      },
+      {
+        "name": "Marine Drive",
+        "lat": 18.9432,
+        "lon": 72.8238,
+        "theme": "leisure",
+        "cost": 0,
+        "duration_min": 90,
+        "rating": 4.6,
+        "reviews": 200000
+      },
+      {
+        "name": "Elephanta Caves",
+        "lat": 18.9647,
+        "lon": 72.9316,
+        "theme": "heritage",
+        "cost": 200,
+        "duration_min": 180,
+        "rating": 4.4,
+        "reviews": 45000
+      },
+      {
+        "name": "Colaba Causeway Market",
+        "lat": 18.9229,
+        "lon": 72.8328,
+        "theme": "shopping",
+        "cost": 0,
+        "duration_min": 120,
+        "rating": 4.3,
+        "reviews": 35000
+      },
+      {
+        "name": "Bandra Nightlife",
+        "lat": 19.0609,
+        "lon": 72.8365,
+        "theme": "nightlife",
+        "cost": 1500,
+        "duration_min": 180,
+        "rating": 4.2,
+        "reviews": 12000
+      }
+    ]
+  },
+  "Delhi": {
+    "center": [
+      28.6139,
+      77.209
+    ],
+    "poi": [
+      {
+        "name": "Red Fort",
+        "lat": 28.6562,
+        "lon": 77.241,
+        "theme": "heritage",
+        "cost": 250,
+        "duration_min": 120,
+        "rating": 4.6,
+        "reviews": 180000
+      },
+      {
+        "name": "Qutub Minar",
+        "lat": 28.5244,
+        "lon": 77.1855,
+        "theme": "heritage",
+        "cost": 250,
+        "duration_min": 90,
+        "rating": 4.6,
+        "reviews": 220000
+      },
+      {
+        "name": "India Gate",
+        "lat": 28.6129,
+        "lon": 77.2295,
+        "theme": "leisure",
+        "cost": 0,
+        "duration_min": 60,
+        "rating": 4.6,
+        "reviews": 350000
+      },
+      {
+        "name": "Sarojini Nagar Market",
+        "lat": 28.5752,
+        "lon": 77.199,
+        "theme": "shopping",
+        "cost": 0,
+        "duration_min": 120,
+        "rating": 4.4,
+        "reviews": 120000
+      },
+      {
+        "name": "Hauz Khas Nightlife",
+        "lat": 28.5535,
+        "lon": 77.1926,
+        "theme": "nightlife",
+        "cost": 1300,
+        "duration_min": 180,
+        "rating": 4.3,
+        "reviews": 22000
+      }
+    ]
+  },
+  "Bengaluru": {
+    "center": [
+      12.9716,
+      77.5946
+    ],
+    "poi": [
+      {
+        "name": "Cubbon Park",
+        "lat": 12.9763,
+        "lon": 77.5929,
+        "theme": "leisure",
+        "cost": 0,
+        "duration_min": 90,
+        "rating": 4.6,
+        "reviews": 180000
+      },
+      {
+        "name": "Bangalore Palace",
+        "lat": 12.9987,
+        "lon": 77.592,
+        "theme": "heritage",
+        "cost": 240,
+        "duration_min": 120,
+        "rating": 4.4,
+        "reviews": 95000
+      },
+      {
+        "name": "Lalbagh Botanical Garden",
+        "lat": 12.9507,
+        "lon": 77.5848,
+        "theme": "leisure",
+        "cost": 30,
+        "duration_min": 120,
+        "rating": 4.6,
+        "reviews": 200000
+      },
+      {
+        "name": "Brigade Road Shopping",
+        "lat": 12.9716,
+        "lon": 77.6071,
+        "theme": "shopping",
+        "cost": 0,
+        "duration_min": 120,
+        "rating": 4.3,
+        "reviews": 60000
+      },
+      {
+        "name": "Indiranagar Nightlife",
+        "lat": 12.971,
+        "lon": 77.64,
+        "theme": "nightlife",
+        "cost": 1200,
+        "duration_min": 180,
+        "rating": 4.2,
+        "reviews": 26000
+      }
+    ]
+  },
+  "Chennai": {
+    "center": [
+      13.0827,
+      80.2707
+    ],
+    "poi": [
+      {
+        "name": "Marina Beach",
+        "lat": 13.05,
+        "lon": 80.2824,
+        "theme": "leisure",
+        "cost": 0,
+        "duration_min": 150,
+        "rating": 4.5,
+        "reviews": 300000
+      },
+      {
+        "name": "Fort St. George",
+        "lat": 13.0827,
+        "lon": 80.287,
+        "theme": "heritage",
+        "cost": 100,
+        "duration_min": 90,
+        "rating": 4.4,
+        "reviews": 25000
+      },
+      {
+        "name": "Kapaleeshwarar Temple",
+        "lat": 13.0338,
+        "lon": 80.2705,
+        "theme": "heritage",
+        "cost": 0,
+        "duration_min": 60,
+        "rating": 4.7,
+        "reviews": 180000
+      },
+      {
+        "name": "Express Avenue Mall",
+        "lat": 13.0602,
+        "lon": 80.2667,
+        "theme": "shopping",
+        "cost": 0,
+        "duration_min": 120,
+        "rating": 4.3,
+        "reviews": 140000
+      },
+      {
+        "name": "Besant Nagar (Elliot's) Beach",
+        "lat": 13.0007,
+        "lon": 80.2663,
+        "theme": "leisure",
+        "cost": 0,
+        "duration_min": 120,
+        "rating": 4.6,
+        "reviews": 220000
+      }
+    ]
+  }
+}
